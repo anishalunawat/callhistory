@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\callhistory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.11\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="D:\callhistory\app\build\intermediates\pre-dexed\debug\classes-a57cf1ba9eb0cbf6d6ac8e8b7b149edcb3f957bb.jar" />
+    </item>
+    <item
+        jar="D:\callhistory\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\callhistory\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-8cb8b94d637cf482635bb94e4b62a0c6fe13fa5d.jar" />
+    </item>
+    <item
+        jar="D:\callhistory\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="D:\callhistory\app\build\intermediates\pre-dexed\debug\classes-130aab65ff9d5641a585e66590e06308f13de227.jar" />
+    </item>
+    <item
+        jar="D:\callhistory\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\callhistory\app\build\intermediates\pre-dexed\debug\classes-c4a0acce311ba42b11ef0fb1be7ced8c04b46516.jar" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\callhistory\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-f049a32939fe37978093cf1b512e8c3fc5b8d14e.jar" />
+    </item>
+
+</items>
